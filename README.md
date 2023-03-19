@@ -24,14 +24,14 @@ test3: More hard          /      out3: Moh erard
 test4: Closely the hardest /     out4: Clt ylesohe hardest
 test5: number               /    out5: ebmunr
 
-Схема работы программы на 5:
+Схема работы программы на 5 (https://github.com/Fedosz/OS_HW1/tree/main/5):
 
 input.txt -> process1 (обработка входного файла) --fifo1> process2 --fifo2> process3 -> output.txt
 
-Схема работы программы на 6:
+Схема работы программы на 6 (https://github.com/Fedosz/OS_HW1/tree/main/6):
 
 input.txt -> process1 --pipe> process2 --pipe> process 1 -> output.txt
 
-Схема работы программы на 7:
+Схема работы программы на 7(https://github.com/Fedosz/OS_HW1/tree/main/7):
 
 input.txt -> process1 --fifo> process2 --fifo> process 1 -> output.txt
