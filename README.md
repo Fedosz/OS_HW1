@@ -11,7 +11,10 @@
 input.txt -> process1 (обработка входного файла) --pipe1> process2 (обработка строки) --pipe2> process3 -> output.txt
 
 Произведено 5 тестов, каждый из которых приведен в папках программы.
+--------------------------------------------------------------------
+
 Сами тесты: 
+
 ./hw test1.txt out1.txt 1 2 
 
 ./hw test2.txt out2.txt 1 4
@@ -22,6 +25,8 @@ input.txt -> process1 (обработка входного файла) --pipe1> 
 
 ./hw test5.txt out5.txt 0 4
 
+-----------------------------------------------
+
 test1: Easy             /        out1: Esay
 
 test2: Harder            /       out2: Hedrar
@@ -31,6 +36,8 @@ test3: More hard          /      out3: Moh erard
 test4: Closely the hardest /     out4: Clt ylesohe hardest
 
 test5: number               /    out5: ebmunr
+
+------------------------------------------------------------------
 
 Схема работы программы на 5 (https://github.com/Fedosz/OS_HW1/tree/main/5):
 
