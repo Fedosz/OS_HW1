@@ -1,0 +1,5 @@
+./hw test1.txt out1.txt 1 2
+./hw test2.txt out2.txt 1 4
+./hw test3.txt out3.txt 2 5
+./hw test4.txt out4.txt 2 8
+./hw test5.txt out5.txt 0 4
